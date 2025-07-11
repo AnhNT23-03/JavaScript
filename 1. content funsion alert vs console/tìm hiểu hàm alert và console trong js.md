@@ -34,3 +34,4 @@ Bài 3. Console.log và Alert trong JavaScript - Khóa học js cơ bản chi ti
 - Làm gián đoạn trải nghiệm người dùng, ví dụ khi họ đang điền form thì popup hiện lên.
 - Dễ bị lạm dụng gây khó chịu.
 - Trong các trình duyệt hiện đại hoặc khi viết ứng dụng SPA (React, Vue, Angular...), alert gần như không được dùng nữa.
+- ok
